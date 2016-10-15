@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/molino.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>66704</length>                 
+      <used>6632</used>                     
+      <free>60072</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>16384</length>                 
+      <used>88</used>                     
+      <free>16296</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
